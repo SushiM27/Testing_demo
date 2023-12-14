@@ -1,4 +1,4 @@
-# Testing_demo
+cd# Testing_demo
 this is my first project 
 <br>
-Author name Sushi Mohane
+Author name Sushi (Qa Eng.)
